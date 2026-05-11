@@ -1,4 +1,4 @@
-# JeuDevinettes - Exercice 2
+# JeuDevinettes 
 
 ## Description
 Jeu de devinettes en Java où l'utilisateur doit trouver 
